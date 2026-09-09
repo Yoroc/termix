@@ -1,4 +1,11 @@
-# Termix
+# termix
+
+![CI](https://github.com/Yoroc/termix/actions/workflows/ci.yml/badge.svg)
+![PyPI - Version](https://img.shields.io/pypi/v/termix?style=flat-square)
+![PyPI - Python Version](https://img.shields.io/pypi/pyversions/termix?style=flat-square)
+![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg?style=flat-square)
+
+![Demo](./@yoro.svg)
 
 Termix is a CLI tool that captures the last N commands from bash/zsh history, reads the local git status/diff, parses the project folder structure, and combines them into a clean Markdown block ready for LLMs.
 
